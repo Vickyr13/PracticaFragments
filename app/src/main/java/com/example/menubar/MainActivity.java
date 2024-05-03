@@ -25,8 +25,6 @@ public class MainActivity extends AppCompatActivity {
             int itemId = item.getItemId();
             if (itemId == R.id.home) {
                 replaceFragment(new FragmentHome());
-            } else if (itemId == R.id.add) {
-                replaceFragment(new FragmentAdd());
             }
             return true;
         });
