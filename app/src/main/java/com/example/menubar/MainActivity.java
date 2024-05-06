@@ -30,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
             }else if (itemId == R.id.Carrito) {
                 replaceFragment(new FragmentCarrito());
             }
+            else if (itemId == R.id.library) {
+                replaceFragment(new FragmentLocation());
+            }
             return true;
         });
     }

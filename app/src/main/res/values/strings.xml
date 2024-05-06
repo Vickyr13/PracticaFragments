@@ -3,4 +3,5 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Home fragment</string>
     <string name="fav_fragment">Favorite fragment</string>
+    <string name="location_fragment">Location fragment</string>
 </resources>

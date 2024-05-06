@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FragmentAdd">
+    tools:context=".FragmentLocation">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:fontFamily="@font/arvo_bold"
         android:gravity="center"
-        android:text="Add_fragment"
+        android:text="@string/location_fragment"
         android:textSize="30sp" />
 
 </FrameLayout>
