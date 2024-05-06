@@ -11,7 +11,7 @@
         android:layout_height="match_parent"
         android:fontFamily="@font/arvo_bold"
         android:gravity="center"
-        android:text="CARR"
+        android:text="@string/Car_fragment"
         android:textSize="30sp" />
 
 </FrameLayout>
