@@ -4,6 +4,6 @@
     <string name="hello_blank_fragment">Home fragment</string>
     <string name="fav_fragment">Favorite fragment</string>
     <string name="location_fragment">Location fragment</string>
-    <string name="Add_fragment">Add_fragment</string>
-    <string name="Car_fragment">Car_fragment</string>
+    <string name="Add_fragment">Add fragment</string>
+    <string name="Car_fragment">Car fragment</string>
 </resources>
